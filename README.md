@@ -1,2 +1,17 @@
 # AI_Voice_Assistant
-Final year Project - Ai based voice assistant using python ,NLP, STT and TTS
+## Overview
+This is myFinal year Project
+## Technologies
+ python 
+ NLP
+  STT and TTS
+  Speech Recognition
+  ## Current Status
+  Under Development
+  ## Future Featurs
+  Intent REcognition
+  Smart Responses
+  Task Automation
+
+  
+  
